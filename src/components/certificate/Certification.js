@@ -4,7 +4,7 @@ import Zoom from "react-reveal/Zoom";
 import { Fade } from "react-reveal";
 import ucsc from "../../images/ucsc.png";
 import ufm from "../../images/ufm.png";
-import cbta from "../../images/CBT&A.pdf";
+// import cbta from "../../images/CBT&A.pdf";
 import { Link } from "react-router-dom";
 import { HiArrowRight } from "react-icons/hi";
 
@@ -67,7 +67,7 @@ export default function Certification() {
                     </div>
                   </Fade>
                 </Col>
-                <Col md={4}>
+                {/* <Col md={4}>
                   <Fade bottom duration={2000} distance="20px">
                     <div className="cert-card">
                       <div className="content">
@@ -110,7 +110,7 @@ export default function Certification() {
                       </div>
                     </div>
                   </Fade>
-                </Col>
+                </Col> */}
                 <Col md={4}>
                   <Fade bottom duration={2000} distance="20px">
                     <div className="cert-card">

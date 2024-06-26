@@ -7,7 +7,7 @@ import ufm from "../../images/ufm.png";
 import nh from "../../images/nh.jpg";
 import nactar from "../../images/nactar.jpg";
 import ccna from "../../images/CCNA_Certificate.jpg";
-import cbta from "../../images/CBT&A.pdf";
+// import cbta from "../../images/CBT&A.pdf";
 import skill from "../../images/skill.png";
 import c from "../../images/c.jpg";
 import iq from "../../images/IQ_Test.jpg";
@@ -89,7 +89,7 @@ export default function CertificatePage() {
                             </div>
                           </Fade>
                         </Col>
-                        <Col md={4}>
+                        {/* <Col md={4}>
                           <Fade bottom duration={2000} distance="20px">
                             <div className="cert-card">
                               <div className="content">
@@ -141,7 +141,7 @@ export default function CertificatePage() {
                               </div>
                             </div>
                           </Fade>
-                        </Col>
+                        </Col> */}
                         <Col md={4}>
                           <Fade bottom duration={2000} distance="20px">
                             <div className="cert-card">

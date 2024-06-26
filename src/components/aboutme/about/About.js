@@ -28,6 +28,7 @@ const About = () => {
           <Col md={7}>
             <Fade duration={3000}>
               <p className="home-about-body">
+                
                 My name is{" "}
                 <b className="purple">
                   {profile_data.first_name + "  " + profile_data.last_name}{" "}
@@ -36,8 +37,6 @@ const About = () => {
                 <b className="purple">
                   Full Stack Developer AND Mobile Developer{" "}
                 </b>
-                with <b className="purple"> 5 years </b>
-                in Dhaka, Bangladesh.
                 <br />
                 <br />I am proficient in various programming languages such as
                 &nbsp;

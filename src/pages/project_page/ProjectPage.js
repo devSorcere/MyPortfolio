@@ -7,7 +7,7 @@ import nyc from "../../images/nyc.png";
 import ci from "../../images/onboarding.png";
 import hd from "../../images/hd.png";
 import eco from "../../images/eco.png";
-import pp from "../../images/portfolio.png";
+// import pp from "../../images/portfolio.png";
 import meal from "../../images/meal.png";
 import ac from "../../images/academic.png";
 import age from "../../images/age.png";
@@ -291,7 +291,7 @@ export default function ProjectPage() {
                             </div>
                           </Fade>
                         </Col>
-                        <Col md={3} className="col-sm-12 col-md-4">
+                        {/* <Col md={3} className="col-sm-12 col-md-4">
                           <Fade bottom>
                             <div
                               key={1}
@@ -351,7 +351,7 @@ export default function ProjectPage() {
                               </div>
                             </div>
                           </Fade>
-                        </Col>
+                        </Col> */}
                         <Col md={3} className="col-sm-12 col-md-4">
                           <Fade bottom>
                             <div

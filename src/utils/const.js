@@ -46,7 +46,17 @@ const profile_data = {
   image: profile_img,
   about_me: (
     <p className="home-about-body">
-      My name is <b className="purple">MD Mafujul Hasan </b>
+      An accomplished Full Stack Developer with over eight years of extensive experience in the field.
+      <br></br>
+      Demonstrating expertise in object-oriented design, web development, technical project management, and back-end development. 
+      <br></br>
+      Proficient in a wide range of programming languages and frameworks, including HTML, CSS, JavaScript, React, Node.js, and more.
+      <br></br>
+      Proven track record of delivering high-quality, scalable solutions that meet client requirements and exceed expectations. Experienced in collaborating with cross-functional teams to drive successful project outcomes and effectively manage project timelines and resources.
+      <br></br>
+      Committed to staying updated with the latest technologies and industry trends to continuously enhance skills and deliver innovative solutions. Known for strong problem-solving abilities, attention to detail, and dedication to delivering results that drive business growth and success.
+
+      {/* My name is <b className="purple">MD Mafujul Hasan </b>
       and I am a <b className="purple">Computer Science and Engineering </b>
       student at <b className="purple">Sonargaon University </b>
       in Dhaka, Bangladesh.
@@ -68,7 +78,7 @@ const profile_data = {
       <br />
       <br />
       In my free time, I enjoy learning new technologies and &nbsp;
-      <b className="purple">building new web technologies and products. </b>
+      <b className="purple">building new web technologies and products. </b> */}
     </p>
   ),
 };
